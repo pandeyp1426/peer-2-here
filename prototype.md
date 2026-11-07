@@ -1,0 +1,10 @@
+The prototypes are not meant to be fully functioning programs and may be missing many aspects of the graphic design. They should, however:
+
+Support enough functionality to enable the tasks to be completed.
+Have a reasonable look and feel. The layout should approximate the desired final design and the colors/fonts/images/etc. should be suitable for the site you are creating.
+Contain other controls/displays/features that your site planned on supporting (or that would be common features) but are not directly needed/used in your tasks. These may be completely nonfunctioning. For instance, you may include a link/icon for changing your profile settings that does nothing. Most interfaces of this type would have the option, but if it is not part of the tasks, it does not need to do anything.
+The prototypes do not need to:
+
+Dynamically process the input or contain a backend of any type. For instance, if the site is a movie review site, you may have a search feature that allows you to find movies and then to add filters to the results. The prototype may statically show the same 10 movies regardless of the search and then show the same 3 movies no matter what filters are added.
+Support all of the input/output features of the final device. This allows you to create a mockup of the phone/tablet interface and show it on the desktop. Then, when demoing the prototype, you can indicate you are pressing the screen and then click on the appropriate area with the mouse. You can approximate/fake input from the sensors/camera/etc. that would not be easily accessible without implementing a significant portion of the program on a mobile device.
+You may choose the technologies you use to create this prototype. It is expected that most students will choose HTML, but you are not limited to that. Other options include (but are certainly not limited to), Protopie (https://www.protopie.io) and Figma (https://www.figma.com).

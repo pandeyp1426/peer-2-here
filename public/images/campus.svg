@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="360" viewBox="0 0 650 360" fill="none">
+  <defs><pattern id="paper" width="13" height="13" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".6" fill="#355E48" opacity=".07"/></pattern><pattern id="shirt" width="16" height="14" patternUnits="userSpaceOnUse"><path d="M0 4h16" stroke="#386349" stroke-width="2" opacity=".5"/></pattern></defs>
+  <path d="M65 194C31 101 99 38 176 49c52-50 139-39 183 1 76-26 183 0 190 87 63 62 22 140-46 157H133C74 295 33 255 65 194Z" fill="#DAE5CC"/>
+  <path d="M65 194C31 101 99 38 176 49c52-50 139-39 183 1 76-26 183 0 190 87 63 62 22 140-46 157H133C74 295 33 255 65 194Z" fill="url(#paper)"/>
+  <circle cx="470" cy="87" r="38" fill="#E9B963"/>
+  <g stroke="#9CAF98" stroke-width="2" stroke-linejoin="round"><path d="M133 199V91h87V65h76v134M134 108h86M220 83h76M220 65l38-24 38 24M146 120h20v29h-20zm36 0h20v29h-20zm-36 44h20v29h-20zm36 0h20v29h-20zm53-66h17v25h-17zm27 0h17v25h-17zm-27 41h17v25h-17zm27 0h17v25h-17z"/><path d="M296 198V126h75v72m-61-53h18v21h-18zm29 0h18v21h-18zM116 199h270"/></g>
+  <ellipse cx="329" cy="310" rx="232" ry="19" fill="#B4C6A3" opacity=".5"/>
+  <g stroke="#274E3B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M430 268h58l-9 40h-39Z" fill="#E8AF76"/><path d="M460 270v-65m0 34c-31-1-40-20-35-32 27 0 38 20 35 32Zm0-12c-7-29 12-49 26-43 4 26-12 42-26 43Zm0 28c24 1 42-14 38-28-25-2-39 12-38 28Z" fill="#709678"/>
+    <path d="M109 274h40l-6 31h-29Z" fill="#F9F4E4"/><path d="M128 274v-45m0 20c-20-1-29-16-25-27 22-1 27 17 25 27Zm0 12c20-2 28-20 22-29-22 3-26 20-22 29Z" fill="#8AA784"/>
+    <path d="m219 249-11 55m55-55 12 55m-67 0h-15m82 0h14"/><path d="M188 239h102v16H188Z" fill="#E9BA75"/>
+    <path d="m375 249-10 55m52-55 10 55m-62 0h-15m77 0h14"/><path d="M347 239h102v16H347Z" fill="#E9BA75"/>
+    <path d="M226 209c-6 21-9 29 12 39l26 16-11 40h21l18-49-35-27 8-19" fill="#315B48"/>
+    <path d="M215 182c-10 25-8 44 18 47l30-3 6-53c-5-17-14-26-30-25-14 1-22 16-24 34Z" fill="#EAC46D"/>
+    <path d="M223 182c9 7 13 18 23 23l34-11 7 13-41 17c-13 0-22-9-29-16" fill="#EAC46D"/>
+    <path d="m279 194 14-6 9 3-3 10-12 6Z" fill="#C48E68"/>
+    <path d="M235 150v-13h19v17" fill="#C48E68"/>
+    <path d="M223 112c0-15 25-20 37-8 8 8 8 28-4 37-14 9-28-3-28-16-8 1-12-9-5-13Z" fill="#D4A07B"/>
+    <path d="M224 120c-10-4-13-18-5-26 9-10 25-5 32-12 11 3 21 14 11 28l-15-4-3 15-10-7-4 11Z" fill="#274E3B"/>
+    <path d="m250 305 22-1 5 9h-35c-1-4 3-7 8-8Z" fill="#F8F3DE"/>
+    <path d="M395 210c10 15 11 29-10 38l-30 13-15 43h-20l14-55 29-22-6-17" fill="#E5A386"/>
+    <path d="M402 179c11 25 11 43-12 49l-38-1-5-48c4-19 11-30 28-29 13 0 23 15 27 29Z" fill="#F4F0DE"/>
+    <path d="M402 179c11 25 11 43-12 49l-38-1-5-48c4-19 11-30 28-29 13 0 23 15 27 29Z" fill="url(#shirt)"/>
+    <path d="M385 180c-7 10-11 19-21 23l-30-12-7 14 37 17c15-2 26-12 31-24" fill="#F4F0DE"/>
+    <path d="m333 191-12-5-11 5 4 10 13 4Z" fill="#E6BA94"/>
+    <path d="M365 153v-15h18v17" fill="#E6BA94"/>
+    <path d="M361 100c-10 7-12 26-4 37 9 11 23 10 31 0 7-9 7-25-1-34-7-7-18-8-26-3Z" fill="#E6BA94"/>
+    <path d="M353 121c-14-18 1-34 19-30 15-3 30 6 30 20 12 11 7 31-6 38l-13-9c11-12 4-20 0-29-10 4-17 2-22-1l-3 13Z" fill="#274E3B"/>
+    <path d="m320 304 20 1 4 8h-35c1-5 6-8 11-9Z" fill="#F8F3DE"/>
+    <path d="M283 214h60v8h-60Z" fill="#F8F3DE"/><path d="m291 221-7 84m50-84 6 84"/>
+    <path d="M281 210h77v8h-77Z" fill="#C0915D"/>
+    <path d="M300 190h18v20h-18Z" fill="#F8F3DE"/><path d="M318 193h4c9 0 8 12 0 12h-4m-13-23c-7-6 7-6 1-13" stroke-width="2.5"/>
+    <path d="M333 205h16v5h-16Z" fill="#D38974"/>
+  </g>
+  <g stroke="#52745A" stroke-width="2.5" stroke-linecap="round"><path d="m88 110 6-13m-16 7 14 1m454 119 7-13m-15 7 14 1m-55-73 6-10m-11 4 12 1"/><path d="M429 51c-5-15-18-17-20-10-1 5 10 11 20 10Zm0 0c7-14 20-13 20-6 0 6-12 8-20 6Z"/></g>
+  <g fill="#F9F5E5" stroke="#456A50" stroke-width="2.5"><path d="M296 70c-13-16-31 1-17 16l17 13 17-13c14-15-4-32-17-16Z"/><path d="M512 166c-9-11-23 1-12 12l12 10 13-10c10-11-3-23-13-12Z"/></g>
+  <path d="M91 308h453" stroke="#274E3B" stroke-width="2" stroke-linecap="round" opacity=".35"/>
+</svg>
